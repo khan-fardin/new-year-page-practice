@@ -1,0 +1,25 @@
+
+.merriweather-regular{
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.banner{
+    background-image: linear-gradient(to bottom, #00000090, #00000050), url(../images/Banner\ Image.png);
+    background-repeat: no-repeat;
+    border-radius: 15px;
+    width: 1320px; height: 600px;
+    margin: 50px auto;
+}
+.banner-text{
+    padding: 177px 344px;
+    text-align: center;
+}
+.banner-wlc{
+    font-size: 32px; font-weight: normal;
+    color: #FFFFFF;
+}
+.banner-head{
+    font-size: 72px; font-weight: bolder;
+    color: #FFFFFF;
+}
